@@ -18,3 +18,4 @@
 ## 1. 문자열 다루기   
 + [문자열에 중복된 문자가 있는지 확인하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EC%A4%91%EB%B3%B5_%EB%AC%B8%EC%9E%90%EA%B0%80_%EC%9E%88%EB%8A%94%EC%A7%80_%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.md)   
 + [입력된 문자열이 회문인지 확인하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4_%ED%9A%8C%EB%AC%B8%EC%9D%B8%EC%A7%80_%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.md)
++ [두 문자열이 같은 문자로 이루어져있는지 확인하기] (https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EA%B0%99%EC%9D%80_%EB%AC%B8%EC%9E%90%EB%A1%9C_%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8%EC%9E%88%EB%8A%94%EC%A7%80_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
