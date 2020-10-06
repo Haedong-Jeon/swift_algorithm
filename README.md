@@ -21,4 +21,5 @@
 + [두 문자열이 같은 문자로 이루어져있는지 확인하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EA%B0%99%EC%9D%80_%EB%AC%B8%EC%9E%90%EB%A1%9C_%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8%EC%9E%88%EB%8A%94%EC%A7%80_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)      
 + [contains() 메소드 없이 문자열이 다른 문자열을 포함하고 있는지 확인하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/contains()_%EB%A9%94%EC%86%8C%EB%93%9C_%EC%97%86%EC%9D%B4_%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%8F%AC%ED%95%A8%EA%B4%80%EA%B3%84_%ED%8C%90%EB%8B%A8%ED%95%98%EA%B8%B0.md)
 + [문자열 안에 특정 문자가 몇개 있는지 카운트](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%88%EC%9D%98_%ED%8A%B9%EC%A0%95%EB%AC%B8%EC%9E%90_%EC%88%98.md)
-+ [문자열 안에서 중복된 문자 삭제하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EC%A4%91%EB%B3%B5_%EB%AC%B8%EC%9E%90_%EC%82%AD%EC%A0%9C.md)
++ [문자열 안에서 중복된 문자 삭제하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EC%A4%91%EB%B3%B5_%EB%AC%B8%EC%9E%90_%EC%82%AD%EC%A0%9C.md)      
++ [공백 삭제하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EA%B3%B5%EB%B0%B1_%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
