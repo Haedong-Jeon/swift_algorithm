@@ -23,3 +23,4 @@
 + [문자열 안에 특정 문자가 몇개 있는지 카운트](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%88%EC%9D%98_%ED%8A%B9%EC%A0%95%EB%AC%B8%EC%9E%90_%EC%88%98.md)
 + [문자열 안에서 중복된 문자 삭제하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EC%A4%91%EB%B3%B5_%EB%AC%B8%EC%9E%90_%EC%82%AD%EC%A0%9C.md)      
 + [공백 삭제하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%EA%B3%B5%EB%B0%B1_%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
++ [회전문자 확인하기](https://github.com/Haedong-Jeon/swift_algorithm/blob/master/%ED%9A%8C%EC%A0%84%EB%AC%B8%EC%9E%90_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
